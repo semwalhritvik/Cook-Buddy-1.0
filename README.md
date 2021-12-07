@@ -1,4 +1,4 @@
-# Recipe app
+# Cook Buddy 1.0
 
 The aim of this simple web application is to display random recipes and look up specific ones to get inspiration for your next meal.
 
